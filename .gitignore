@@ -1,0 +1,9 @@
+*.gcda
+*.gcno
+vgcore*
+.vscode/
+.vscode/*
+*.o
+unit_tests
+libmy.a
+my_project
